@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img src="github-contribution-grid-snake.svg" alt="Snake animation" />
+<img width="100%" src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 <div align="center">
